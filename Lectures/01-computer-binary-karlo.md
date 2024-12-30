@@ -279,7 +279,7 @@ aq vidzaxit rom imas ki aghar vuyurebt ramdenjer chavtevt oris raime xarisxs, ar
  
 ---
 დავუბრუნდეთ ხაჭაპურს
-![[Qbit/slides/Lectures/Images/Pasted image 20241222220013.png]]
+![[/Images/Pasted image 20241222220013.png]]
 
 ---
 30, 0, 29, 0, 14, 19, 16, 8
@@ -299,43 +299,45 @@ note:
 ---
 
 
-![[Qbit/slides/Lectures/Images/x.png]]
+![[/Images/x.png]]
 
 ---
 
 
-![[Qbit/slides/Lectures/Images/a.png]]
+![[/Images/a.png]]
 
 ---
 
-![[Qbit/slides/Lectures/Images/W.png]]
+![[/Images/W.png]]
 
 
 ---
 
-![[Qbit/slides/Lectures/Images/a 1.png]]
+![[Images/a 1.png]]
 
 ---
 
-![[Qbit/slides/Lectures/Images/p.png]]
+![[/Images/p.png]]
 
 ---
 
-![[Qbit/slides/Lectures/Images/u.png]]
+![[/Images/u.png]]
 
 ---
 
-![[Qbit/slides/Lectures/Images/r.png]]
+![[/Images/r.png]]
 
 ---
 
-![[Qbit/slides/Lectures/Images/i.png]]
+![[/Images/i.png]]
 
 ---
-![[Qbit/slides/Lectures/Images/Pasted image 20241223133706.png|350]]
+![[/Images/Pasted image 20241223133706.png|350]]
 
 ---
-![[Qbit/slides/Lectures/Images/Pasted image 20241223133732.png|350]]
+
+![[/Images/Pasted image 20241223133732.png|350]]
+
 ---
 
 ნებისმიერი ქართული სიტყვა 5 ნათურით (ბიტით)?
@@ -400,20 +402,20 @@ note:
 დავიწყოთ ისევ მარტივი მაგალითით:
 
 ---
-![[export/01-computer-binary-karlo/Qbit/slides/Lectures/Images/Pasted image 20241222234837.png]]
+![[/Images/Pasted image 20241222234837.png]]
 note:
 დავუშვათ გვაქვს თეთრი ტილო და შავი საღებავი, შეგვიძლია წარმოსახვაში ეს ტილო უჯრებად დავყოთ და კონკრეტული მათგანი გავაფერადოთ
 
 ---
 ნახატი უჯრებად დაყოფილ ტილოზე
 
-![[Qbit/slides/Lectures/Images/Pasted image 20241222235205.png|250]]
+![[/Images/Pasted image 20241222235205.png|250]]
 note:
 
 როგორც უკვე მიხვდით ამ მეთოდით შეგვიძლია ნებისმიერი შავ-თეთრი სურათი დავხატოთ
 
 ---
-![[Qbit/slides/Lectures/Images/Pasted image 20241223000644.png]]
+![[/Images/Pasted image 20241223000644.png]]
 
 note:
 ეს UJREBIANI BADE გვაჩვენებს რომელი უჯრა უნდა გავაფერადოთ ტილოზე, რათა მოცემული ნახატი მივიღოთ.
@@ -421,14 +423,14 @@ note:
 თუმცა, როგორც მხატვარმა, ბუნებრივია შავის გარდა სხვა ფერებიც შეგვიძლია გამოვიყენოთ
 
 ---
-![[Qbit/slides/Lectures/Images/Pasted image 20241223001059.png]]
+![[/Images/Pasted image 20241223001059.png]]
 note:
 ამ საღებავების შეზავებით, შეგვიძლია ნებისმიერი სასურველი ფერი მივიღოთ.
 ფერების მიღების სხვა მეთოდიც არსებობს, რომელიც არა საღებავებს, არამედ სინათლეს შეეხება
 
 ---
 
-![[export/01-computer-binary-karlo/Qbit/slides/Lectures/Images/Pasted image 20241223000958.png]]
+![[/Images/Pasted image 20241223000958.png]]
 
 note:
 ფერწერაში გვაქვს სამი ძირითადი ფერი, წითელი, ყვითელი და ლურჯი.
@@ -437,7 +439,7 @@ note:
 
 ნახატი ეკრანზე
 
-![[export/01-computer-binary-karlo/Qbit/slides/Lectures/Images/Pasted image 20241223002701.png|300]]
+![[/Images/Pasted image 20241223002701.png|300]]
 
 note:
 კომპიუტერის მონიტორი, ისევე, როგორც ტილო, შეგვიძლია დავყოთ უჯრებად, მაგრამ ამ შემთხვევაში, უჯრებს გავაფერადებთ არა საღებავით, არამედ - სინათლით.
@@ -448,14 +450,14 @@ note:
 
 Red, Green, Blue
 
-![[Qbit/slides/Lectures/Images/Pasted image 20241223002240.png]]
+![[/Images/Pasted image 20241223002240.png]]
 note:
 ამ სამი ფერის განსხვავებული პროპორციული ნათებით შეგვიძლია განსხვავებული ფერების მიღება. ფერების ამ გაგებით, სინათლის არსებობა იწვევს თეთრი ფერის მიღებას, იმ შემთხვევაში თუ სამივე ფერი ჩამქრალია, ვიღებთ სიბნელეს, ანუ ფერ შავს
 
 
 ---
 
-![[Qbit/slides/Lectures/Images/Pasted image 20241223002919.png]]
+![[/Images/Pasted image 20241223002919.png]]
 
 ---
 
