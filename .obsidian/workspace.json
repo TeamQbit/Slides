@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/DemetreSlides/Slide Java.md",
+                "file": "Lectures/DemetreSlides/Slide Java p3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slide Java"
+              "title": "Slide Java p3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6da1a18b51f85f19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2817d7abba2e949",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ]
@@ -78,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e06ab5624f3a5a1c",
@@ -172,6 +187,9 @@
   },
   "active": "b37631c9c6feb30b",
   "lastOpenFiles": [
+    "Lectures/DemetreSlides/Slide Java.md",
+    "Lectures/DemetreSlides/Slide Java p2.md",
+    "Lectures/DemetreSlides/Slide Java p3.md",
     "Lectures/DemetreSlides/Images/Pasted image 20250322032916.png",
     "Lectures/DemetreSlides/Images/Pasted image 20250322032747.png",
     "Lectures/DemetreSlides/Images/Pasted image 20250322032248.png",
@@ -185,12 +203,10 @@
     "Lectures/lecture1-part2/Images/pole1.gif",
     "Lectures/lecture1-part2/Images/pole.gif",
     "Lectures/lecture1-part2/Images/launch.png",
-    "Lectures/lecture1-part2/Images/landing.gif",
     "Lectures/lecture1-part2/01-2-karlo.md",
     "Lectures/lecture1-part2/Images",
     "Lectures/lecture1-part2",
     "Lectures/Images",
-    "Lectures/DemetreSlides/Slide Java.md",
     "Lectures/DemetreSlides/Images",
     "Lectures/DemetreSlides",
     "Lectures/02/DataTypes/datatypes-memory.md"
