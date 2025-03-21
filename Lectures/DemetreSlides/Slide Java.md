@@ -3,33 +3,18 @@ transition: none
 width: "900"
 timeForPresentation: "0"
 ---
-- Java
-    - Control flow diagrams -> Java code
-    - Problem that needs variable to solve
-        - how many beepers you picked?
-        - subtract one number from another
-    - Variables
-    - Operators (arithemtic, logical, assignment)
-    - Arrays
-    - Loops (while, for, foreach for iterating through arrays)
-    - Debugging (without debuggin just show watch values)
-    - Functions
-
-
----
 სიმრავლეები
 ---
-![[Pasted image 20250316103203.png]]
+![[Pasted image 20250322032916.png]]
 
 ---
 $$\mathbb{N} = \{ 1, 2, 3, \dots \} $$ 
 
-
-
-
 $$\mathbb{Z} = \{ \dots, -2, -1, 0, 1, 2, \dots \}$$
 
-$$\mathbb{Q} = \left\{ \frac{a}{b} \mid a, b \in \mathbb{Z}, b \neq 0 \right\}$$
+$$
+\mathbb{R} = \mathbb{Q} \cup \mathbb{I}
+$$
 
 
 
@@ -49,13 +34,16 @@ $$\mathbb{N}_0 = \{ 0, 1, 2, 3, \dots \} $$
 
 $$\mathbb{Z} = \{ \dots, -2, -1, 0, 1, 2, \dots \}$$
 
-$$\mathbb{Q} = \left\{ \frac{a}{b} \mid a, b \in \mathbb{Z}, b \neq 0 \right\}$$
+$$
+\mathbb{R} = \mathbb{Q} \cup \mathbb{I}
+$$
+
 
 Note:
 დააკვირდით, რომ უსასრულო ზომის სიმრავლეებია. მაგრამ ერთი მეორეში მაინც ეტევა, მაგალითად N "დევს" N0-ში და ასე შემდეგ.
 
 ---
-$$\mathbb{N} \subseteq \mathbb{N}_0 \subseteq \mathbb{Z} \subseteq \mathbb{Q}$$
+$$\mathbb{N} \subseteq \mathbb{N}_0 \subseteq \mathbb{Z} \subseteq \mathbb{R}$$
 
 note:
 ამ დროს ვამბობთ, რომ ერთი სიმრავლე მეორის "ქვესიმრავლეა". მიუხედავად მათი უსასრულობისა, მაინც ერთი სიმრავლე მეორეზე დიდია და ქვესიმრავლეებია
@@ -89,6 +77,8 @@ $$x+y=1$$
 
 $$x \in \mathbb{Z}$$
 
+$$(x \downarrow \space ,\space y \uparrow)$$
+
 $$(0,1)$$
 
 
@@ -98,7 +88,23 @@ $$(-2,3)$$
 
 $$\dots$$
 
+
+---
+
+$$x \in \mathbb{R}$$
+
 $$(x \downarrow \space ,\space y \uparrow)$$
+
+$$(1,0)$$
+
+
+$$(0.9,0.1)$$
+
+$$(0.8,0.2)$$
+
+$$\dots$$
+
+
 ---
 
 სასრულობა
@@ -132,7 +138,7 @@ $$ \textcolor{cyan}{x} \in \textcolor{yellow}{\mathbb{Z}}$$
 $$\textcolor{yellow}{int} \space  \textcolor{cyan}x;$$
 
 Note:
-ცვლადი ჯავაში მეხსიერებასთან წვდომის ძირითადი ხელსაწყოა
+ცვლადი ჯავაში მეხსიერებასთან წვდომის ძირითადი ხელსაწყოა, ; ისმევა ბრძანების დასრულების შემდეგ
 
 ---
 
@@ -149,13 +155,16 @@ $$\textcolor{yellow}{byte} \space  \textcolor{cyan}x \space  = \textcolor{red}{1
 $$\underline{\textcolor{yellow}{byte} \space  \textcolor{cyan}x \space  = \textcolor{red}{200};}$$
 
 ---
-$$\textcolor{yellow}{float} \space  \textcolor{cyan}x \space  = \textcolor{red}{3.14f};$$
+$$\textcolor{yellow}{double} \space  \textcolor{cyan}x \space  = \textcolor{red}{3.14};$$
 ---
 $$\textcolor{yellow}{boolean} \space  \textcolor{cyan}{\text{is_moving}} \space  = \textcolor{red}{true};$$
 
 ---
 
-Note: მაგალითი ინტელიჯ, ბრეიქპოინტით
+Code Break
+
+Note:
+ეს არის ინტეგრირებული გარემო InteliJ Idea Community... და ამ ხელსაწყოს აქვს ბევრი რამ რაც გაგვიმარტივებს კოდის წერას, ერთ-ერთი უმნიშვნელოვანესია დებაგერი და დავსვათ ბრეიქფოინტი და მოდი შევამოწმოთ, int, long, float, double და ა.შ.
 
 ---
 Python
@@ -217,20 +226,13 @@ Python
 Java
 ![[Pasted image 20250316114601.png]]
 
-Note: წერტილმძიმე გვაქვს ბრძანების დასასრულს და (მრგვალ) ფრჩხილებში იწერება პირობა
-
- ---
-
-Python
-
-![[Pasted image 20250316114731.png]]
+note: წერტილმძიმე გვაქვს ბრძანების დასასრულს და (მრგვალ) ფრჩხილებში იწერება პირობა
 
 ---
-Java
+ჩადგმული if-else
+
 
 ![[Pasted image 20250316114752.png]]
-
-Note: მაგალითი ინტელიჯ, ბრეიქპოინტით
 
 ---
 
@@ -240,8 +242,6 @@ while cycle
 
 ---
 ![[Pasted image 20250316115340.png]]
-
-Note: მაგალითი ინტელიჯ, ბრეიქპოინტით 
 
 ---
 for cycle in Python
@@ -260,7 +260,9 @@ for cycle in Java
 
 ![[Pasted image 20250316115947.png]]
 
-Note: მაგალითი ინტელიჯ, ბრეიქპოინტით 
+
+---
+Code Break
 
 ---
 პროცედურა
@@ -296,6 +298,9 @@ void calculate(){
 ---
 Magic Numbers
 
+Note:
+ჩემი მოგონილი არ არის, კოდში როდესაც ცხადად გაწერილი გაქვთ რიცხვითი მნიშვნელობები, ამას ვეძახით მაგიურ რიცხვებს
+
 ---
 
 Python
@@ -310,7 +315,7 @@ def calculate():
 Java
 
 ```java
-void calculate(int n){
+void calculate(){
 	for(int i = 0; i < n; i=i+1){
 		do_something();
 	}
@@ -386,13 +391,20 @@ $$აპარატი : \textcolor{yellow}{ხურდა} \to \textcolor{red
 Note: საკმარისი ინფორმაცია მივეცით აპარატს იმისათვის რომ ჩვენთვის სასურველი სასმელი დაგვიბრუნოს?
 
 ---
+
+როგორ ავირჩიო სასმელი?
+
+---
+$$აპარატი : \textcolor{yellow}{ხურდა, \space კოდი} \to \textcolor{red}{სასმელი}$$
+
+---
 $$f : \textcolor{yellow}{X} \to \textcolor{red}{Y}$$
 ---
 $$f : \textcolor{yellow}{X_1, X_2, \dots, X_n} \to \textcolor{red}{Y}
 $$
----
 
-$$აპარატი : \textcolor{yellow}{ხურდა, \space კოდი} \to \textcolor{red}{სასმელი}$$
+
+
 ---
 დავუბრუნდეთ ჯავას
 
@@ -410,8 +422,7 @@ calculate(3);
 ```
 
 ---
-
-f()  = 10
+$$f \to  10$$
 
 ---
 return
@@ -423,8 +434,8 @@ void f(){
     return 10;
 }
 
-int x = f(23);
-int y = f(320)
+int x = f();
+int y = f();
 ```
 
 ---
@@ -433,12 +444,12 @@ int f(){
     return 10;
 }
 
-int x = f(23);
-int y = f(320)
+int x = f();
+int y = f();
 ```
 ---
 
-add(x) = x+1
+add(x, y) = x+y
 
 ---
 
@@ -450,10 +461,15 @@ int add(int x, int y){
 int k = add(10, 23);
 ```
 
+
+---
+Code Break
+
 ---
 კომენტარები
 
 ---
+
 ```java
 void calculate(int n){
 	for(int i = 0; i < n; i=i+1){
@@ -556,7 +572,6 @@ $$-=$$
 
 $$*=$$
 
-
 $$/=$$
 ---
 ```java
@@ -568,6 +583,7 @@ x /= 5;
 ```
 ---
 შედარების ოპერატორები
+
 ---
 $$==$$
 
@@ -592,6 +608,11 @@ if (x == 10){
 ```
 
 
+---
+Code Break
+
+---
+
 ლოგიკური ოპერატორები
 
 ---
@@ -599,7 +620,7 @@ if (x == 10){
 $${\&\&}$$ 
 
 ან - 
-$${\&\&}$$
+$${||}$$
 
 უარყოფა - 
 $${!}$$
@@ -708,14 +729,17 @@ students[4] = 6;
 
 ![[Pasted image 20250316145536.png]]
 
-Note: ანახე კოდში
+---
+
+Code Break
 
 ---
  მასივების მასივი
 note: შეგვიძლია განზომილებებში გავიდეთ
 
 ---
-![[Pasted image 20250316145751.png]]
+
+![[Pasted image 20250322032248.png]]
 
 ![[Pasted image 20250316145852.png]]
 
@@ -725,15 +749,17 @@ note: შეგვიძლია განზომილებებში გ
 int value = myArray[1][2];
 ```
 
-![[Pasted image 20250316150017.png]]
+![[Pasted image 20250322032747.png]]
 
 ---
 ყველა ელემენტში გარბენა
 
-![[Pasted image 20250316150130.png]]
+---
 
 
 ```java
+int[][] myArray = new int[3][4];
+
 for (int i = 0; i < myArray.length; i++) {
 	for (int j = 0; j < myArray[i].length; j++) {
 		// თითოეულ უჯრას ასე მივწვდებით

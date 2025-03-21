@@ -1,15 +1,14 @@
 {
   "main": {
-    "id": "31a1f02a9472f178",
+    "id": "266d5aaa54ad43df",
     "type": "split",
     "children": [
       {
-        "id": "e2bb353bccf9fabd",
+        "id": "6b242fe68327144f",
         "type": "tabs",
-        "dimension": 42.471042471042466,
         "children": [
           {
-            "id": "73d575e8ee684c6d",
+            "id": "b37631c9c6feb30b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,37 +22,20 @@
             }
           }
         ]
-      },
-      {
-        "id": "9f6957d11d71cd1f",
-        "type": "tabs",
-        "dimension": 57.52895752895753,
-        "children": [
-          {
-            "id": "99d01761924835f2",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "91b601bbc24a4742",
+    "id": "1ebf93a583ca6654",
     "type": "split",
     "children": [
       {
-        "id": "3a304574e915297a",
+        "id": "daaa6c5714ebdebf",
         "type": "tabs",
         "children": [
           {
-            "id": "9c9d631f5f56f43d",
+            "id": "61a6e6091e2f4c3e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +48,7 @@
             }
           },
           {
-            "id": "d16d09509c49ed5a",
+            "id": "df5c62eadc59b2d7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +65,7 @@
             }
           },
           {
-            "id": "2557c5841984d32e",
+            "id": "a1ee4f65cbd6d257",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,23 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "8a1d0722bf8718cc",
+    "id": "e06ab5624f3a5a1c",
     "type": "split",
     "children": [
       {
-        "id": "51258a1affca60f7",
+        "id": "54198d839ab4a0d7",
         "type": "tabs",
         "children": [
           {
-            "id": "d6cee1b47c1accbb",
+            "id": "9aebe37f13e0edf6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/02-data-variables-java.md",
+                "file": "Lectures/02/DataTypes/datatypes-memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02-data-variables-java"
+              "title": "Backlinks for datatypes-memory"
             }
           },
           {
-            "id": "bf54e68ad8f4a1ea",
+            "id": "1d048adfcdc03d34",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/02-data-variables-java.md",
+                "file": "Lectures/02/DataTypes/datatypes-memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02-data-variables-java"
+              "title": "Outgoing links from datatypes-memory"
             }
           },
           {
-            "id": "23d69a04a475a5ec",
+            "id": "5a4726a5b8371aa9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,18 +138,18 @@
             }
           },
           {
-            "id": "d4f54d9cb57c9b32",
+            "id": "68b0c453a8d93c93",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/02-data-variables-java.md",
+                "file": "Lectures/02/DataTypes/datatypes-memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02-data-variables-java"
+              "title": "Outline of datatypes-memory"
             }
           }
         ]
@@ -187,24 +170,29 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "73d575e8ee684c6d",
+  "active": "b37631c9c6feb30b",
   "lastOpenFiles": [
-    "Lectures/DemetreSlides/Images/Pasted image 20250316150130.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316150017.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316145852.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316145751.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316145550.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316145536.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316145517.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316145434.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316145155.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316145103.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250316144707.png",
-    "Lectures/DemetreSlides/Slide Java.md",
+    "Lectures/DemetreSlides/Images/Pasted image 20250322032916.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250322032747.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250322032248.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250322032126.png",
     "Lectures/01-computer-binary-karlo.md",
-    "Lectures/DemetreSlides/Images",
     "Lectures/02-data-variables-java.md",
+    "Lectures/02/DataTypes/02-data-variables-java.md",
+    "Lectures/lecture1-part2/Images/robot.gif",
+    "Lectures/lecture1-part2/Images/pothole.gif",
+    "Lectures/lecture1-part2/Images/pole2.gif",
+    "Lectures/lecture1-part2/Images/pole1.gif",
+    "Lectures/lecture1-part2/Images/pole.gif",
+    "Lectures/lecture1-part2/Images/launch.png",
+    "Lectures/lecture1-part2/Images/landing.gif",
+    "Lectures/lecture1-part2/01-2-karlo.md",
+    "Lectures/lecture1-part2/Images",
+    "Lectures/lecture1-part2",
+    "Lectures/Images",
+    "Lectures/DemetreSlides/Slide Java.md",
+    "Lectures/DemetreSlides/Images",
     "Lectures/DemetreSlides",
-    "README.md"
+    "Lectures/02/DataTypes/datatypes-memory.md"
   ]
 }
