@@ -11,30 +11,17 @@ Note:
 ---
 
 Python
-
-```python
-def calculate():
-	for i in range(10):
-		do_something()
-	done()
-```
+![[Pasted image 20250322224659.png]]
 
 Java
 
-```java
-void calculate(){
-	for(int i = 0; i < 10; i=i+1){
-		do_something();
-	}
-	done();
-}
-```
-
+![[Pasted image 20250322224713.png]]
 
 ---
-10?
+ფიქსირებული 10?
+
 ---
-Magic Numbers
+მაგიური რიცხვები
 
 Note:
 ჩემი მოგონილი არ არის, კოდში როდესაც ცხადად გაწერილი გაქვთ რიცხვითი მნიშვნელობები, ამას ვეძახით მაგიურ რიცხვებს
@@ -43,39 +30,31 @@ Note:
 
 Python
 
-```python
-def calculate():
-	for i in range(n):
-		do_something()
-	done()
-```
+![[Pasted image 20250322224634.png]]
 
 Java
 
-```java
-void calculate(){
-	for(int i = 0; i < n; i=i+1){
-		do_something();
-	}
-	done();
-}
-```
+![[Pasted image 20250322224644.png]]
 
 ??
+
+Note: უკეთესი ვარიანტი იქნებოდა აქაც ცვლადი გვქონდეს, რომლის მნიშვნელობასაც ისე შევცვლით როგორაც დაგვჭირდება. ამ პრობლემის გადასაჭრელად გავიხსენოთ ფუნქციები მათემატიკაში
 
 ---
 ფუნქცია
 ![[Pasted image 20250316121826.png]]
-Note: მათემატიკაში ვიცით, რომ ფუნქცია არის ასახვა ორ სიმრავლეს შორის. და f, x-ის ერთადერთ მნიშვნელობას შეუსაბამებს ერთადერთ Y-ს. 
+Note: მათემატიკაში ვიცით, რომ ფუნქცია არის ასახვა ორ სიმრავლეს შორის. და f, x-ის ერთადერთ მნიშვნელობას შეუსაბამებს ერთადერთ Y-ს.  X ვუწოდებთ განსაზღვრის არეს, ხოლო Y - ს მნიშვნელობათა სიმრავლეს
 
 ---
 
 ![[Pasted image 20250316122029.png]]
 
+Note: თუ გვაქვს ფუნქცია f(x) = x + 1, ეს ნიშნავს, რომ ნებისმიერ რიცხვს x-ში შეესაბამება მასზე ერთით დიდ რიცხვი Y-ში
+
 ---
 ![[Pasted image 20250316122120.png]]
 
-Note: ერთ Y-ს შეიძლება რამდენიმე X შეესაბამებოდეს, მაგრამ არა პირიქით.
+Note: აგერ, მეორე მაგალითი, სადაც ფუნქცია არგუმენტის კვადრატს გვიბრუნებს. გახსოვდეთ, რომ ერთ Y-ს შეიძლება რამდენიმე X შეესაბამებოდეს, მაგრამ არა პირიქით.
 
 
 ---
@@ -107,21 +86,21 @@ $$f(\textcolor{yellow}{10}) \to \textcolor{red}{11}$$
 
 ---
 
-$$\textcolor{yellow}{10} \to f \ 
-\to\textcolor{red}{11}$$
+$$
+\textcolor{yellow}{10} \to f \ 
+\to\textcolor{red}{11} 
+$$
 
-$$\textcolor{yellow}{Input} \to f \ 
-\to\textcolor{red}{Output}$$
+$$
+\textcolor{yellow}{Input} \to f \ 
+\to\textcolor{red}{Output}
+$$
 
-$$f : \textcolor{yellow}{X} \to \textcolor{red}{Y}$$
+$$
+f : \textcolor{yellow}{X} \to \textcolor{red}{Y}
+$$
 ---
-![[Pasted image 20250316125946.png]]
-
----
-
 ![[Pasted image 20250316125900.png]]
----
-$$f : \textcolor{yellow}{X} \to \textcolor{red}{Y}$$
 
 ---
 $$აპარატი : \textcolor{yellow}{ხურდა} \to \textcolor{red}{სასმელი}$$
@@ -142,7 +121,6 @@ $$f : \textcolor{yellow}{X_1, X_2, \dots, X_n} \to \textcolor{red}{Y}
 $$
 
 
-
 ---
 დავუბრუნდეთ ჯავას
 
@@ -150,56 +128,26 @@ $$
 ![[Pasted image 20250316133032.png]]
 
 ---
-![[Pasted image 20250316133051.png]]
+![[Pasted image 20250316133051.png|700]]
 
-```java
-calculate(5);
-calculate(10);
-calculate(-8);
-calculate(3);
-```
+![[Pasted image 20250322224206.png|400]]
 
 ---
-$$f \to  10$$
-
+$$f  \to \textcolor{red}{10}$$
 ---
 return
 
 ---
 
-```java
-void f(){
-    return 10;
-}
-
-int x = f();
-int y = f();
-```
+![[Pasted image 20250322224241.png|800]]
 
 ---
-```java
-int f(){
-    return 10;
-}
-
-int x = f();
-int y = f();
-```
+![[Pasted image 20250322224250.png|800]]
 ---
 
 add(x, y) = x+y
 
----
-
-```java
-int add(int x, int y){
-	return x + y;
-}
-
-int k = add(10, 23);
-```
-
-
+$$add : \textcolor{yellow}{\mathbb{Z}, \mathbb{Z}} \to \textcolor{red}{\mathbb{Z}}$$
 ---
 Code Break
 

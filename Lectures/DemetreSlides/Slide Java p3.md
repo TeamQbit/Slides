@@ -7,39 +7,15 @@ timeForPresentation: "0"
 
 ---
 
-```java
-void calculate(int n){
-	for(int i = 0; i < n; i=i+1){
-		do_something();
-	}
-	done();
-}
-```
 
+![[Pasted image 20250323001421.png]]
 Note: do_something თუ არ გაქვს გამოცხადებული, არ იმუშავებს
 
 ---
 
-```java
-void calculate(int n){
-	for(int i = 0; i < n; i=i+1){
-		// do something 
-	}
-	// done
-}
-```
-
+![[Pasted image 20250322223656.png|780]]
 ---
-```java
-// ეს არის კომენტარი ჯავაში
-
-/* კომენტარს კომპიუტერი უგულვებელყოფს და მას კოდის
-ნაწილად  არ მიიჩნევს */
-
-// ვაცხადებთ ცვლადს და ვანიჭებთ მნიშვნელობას 10-ს
-int x = 10;
-```
-
+![[Pasted image 20250322222747.png]]
 ---
 კონვენცია
 
@@ -61,6 +37,8 @@ kebab-case
 
 Java-ში camelCase + PascalCase
 
+Note: აწი, როგორც სლაიდებში, ასევე კოდში გამოვიყენებთ ამ კონვენციას, მოდი მანამდე განვიხილოთ განსხვავებული ოპერატორები ჯავაში
+
 ---
 არითმეტიკული ოპერაციები
 
@@ -76,6 +54,7 @@ $$/$$
 
 $${\%}$$
 ---
+
 $$x + y$$
 
 $$x - y$$
@@ -85,39 +64,6 @@ $$x * y$$
 $$x / y$$
 
 
----
-$$++$$
-
-$$--$$
----
-$$x++$$
-
-$$x--$$
-
-
-$$++x$$
-
-$$--x$$
----
-მინიჭების ოპერატორები
----
-$$=$$
-
-$$+=$$
-
-$$-=$$
-
-$$*=$$
-
-$$/=$$
----
-```java
-int x = 5;
-x += 5;
-x -= 5;
-x *= 5;
-x /= 5;
-```
 ---
 შედარების ოპერატორები
 
@@ -136,14 +82,37 @@ $$<=$$
 
 ---
 
-```java
-int x = 10;
+![[Pasted image 20250322223730.png]]
 
-if (x == 10){
-	// x უდრის ათს
-}
-```
+---
 
+მინიჭების ოპერატორები
+---
+$$=$$
+
+$$+=$$
+
+$$-=$$
+
+$$*=$$
+
+$$/=$$
+---
+![[Pasted image 20250322222846.png]]
+
+---
+$$++$$
+
+$$--$$
+---
+$$x++$$
+
+$$x--$$
+
+
+$$++x$$
+
+$$--x$$
 
 ---
 Code Break
@@ -164,33 +133,13 @@ $${!}$$
 
 ---
 
-```java
-boolean isRaining = true;
-boolean hasUmbrella = true;
-
-if (isRaining && hasUmbrella){
-	// თუ წვიმს და გაქვს ქოლა
-}
-
-```
+![[Pasted image 20250322223744.png]]
 
 ---
-
-```java
-
-if (isRaining && !hasUmbrella){
-	// თუ წვიმს და არ გაქვს ქოლგა
-}
-
-```
+![[Pasted image 20250322223800.png]]
 
 ---
-
-```java
-if (isRaining && (hasUmbrella || hasRainCoat)) {
-	// თუ წვიმს და (ან ქოლგა გაქვს ან საწვიმარი)
-}
-```
+![[Pasted image 20250322223851.png]]
 
 ---
 მოკლე ჩართვა
@@ -236,10 +185,7 @@ $${\textcolor{yellow}{int[]} \space  \textcolor{cyan}x \space  = new \textcolor{
 
 ![[Pasted image 20250316145103.png]]
 
-```java
-int[] students = new int[8];
-students[4] = 6;
-```
+![[Pasted image 20250322223908.png]]
 
 ---
 
@@ -247,14 +193,8 @@ students[4] = 6;
 
 ---
 ![[Pasted image 20250316145434.png]]
-```java
-students[0] = 9;
-students[1] = 4;
-students[2] = 5;
-students[3] = 7;
-students[4] = 6;
-// ... suspiciuri
-```
+
+![[Pasted image 20250322223938.png]]
 
 ---
 
@@ -275,6 +215,8 @@ Code Break
 note: შეგვიძლია განზომილებებში გავიდეთ
 
 ---
+![[Pasted image 20250323001220.png]]
+---
 
 ![[Pasted image 20250322032248.png]]
 
@@ -282,29 +224,14 @@ note: შეგვიძლია განზომილებებში გ
 
 ---
 
-```
-int value = myArray[1][2];
-```
-
+![[Pasted image 20250322224040.png]]
 ![[Pasted image 20250322032747.png]]
 
 ---
 ყველა ელემენტში გარბენა
 
 ---
-
-
-```java
-int[][] myArray = new int[3][4];
-
-for (int i = 0; i < myArray.length; i++) {
-	for (int j = 0; j < myArray[i].length; j++) {
-		// თითოეულ უჯრას ასე მივწვდებით
-		// შესაბამისი [i,j] კოორდინატებით
-	}
-}
-
-```
+![[Pasted image 20250322224102.png]]
 
 ---
 შემდეგი ნაბიჯები
