@@ -133,10 +133,10 @@ $${!}$$
 
 ---
 
-![[Pasted image 20250322223744.png]]
+![[Pasted image 20250323002026.png]]
 
 ---
-![[Pasted image 20250322223800.png]]
+![[Pasted image 20250322223800.png|800]]
 
 ---
 ![[Pasted image 20250322223851.png]]
@@ -215,17 +215,18 @@ Code Break
 note: შეგვიძლია განზომილებებში გავიდეთ
 
 ---
-![[Pasted image 20250323001220.png]]
+$${\textcolor{yellow}{int[][]} \space  \textcolor{cyan}x \space  = new \textcolor{yellow}{ \space int[\textcolor{white}{8}][\textcolor{white}{3}]};}$$
 ---
 
-![[Pasted image 20250322032248.png]]
+![[Pasted image 20250322032248.png|700]]
 
 ![[Pasted image 20250316145852.png]]
 
 ---
 
+![[Pasted image 20250322032747.png|700]]
 ![[Pasted image 20250322224040.png]]
-![[Pasted image 20250322032747.png]]
+
 
 ---
 ყველა ელემენტში გარბენა

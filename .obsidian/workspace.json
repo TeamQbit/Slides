@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "1aeda29a7ddbab00",
+        "id": "6d0a2c8a15829670",
         "type": "tabs",
         "children": [
           {
-            "id": "5144507af8749bac",
+            "id": "876611c1273eb3e7",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -187,6 +187,8 @@
   },
   "active": "b37631c9c6feb30b",
   "lastOpenFiles": [
+    "Lectures/DemetreSlides/Images/Pasted image 20250323002026.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250323001926.png",
     "Lectures/DemetreSlides/Images/Pasted image 20250323001421.png",
     "Lectures/DemetreSlides/Images/Pasted image 20250323001220.png",
     "Lectures/DemetreSlides/Slide Java p2.md",
@@ -198,8 +200,6 @@
     "Lectures/DemetreSlides/Images/Pasted image 20250322224607.png",
     "Lectures/DemetreSlides/Images/Pasted image 20250322224505.png",
     "Lectures/DemetreSlides/Images/Pasted image 20250322224341.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224330.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224306.png",
     "Lectures/DemetreSlides/Slide Java p3.md",
     "Lectures/01-computer-binary-karlo.md",
     "Lectures/02-data-variables-java.md",
