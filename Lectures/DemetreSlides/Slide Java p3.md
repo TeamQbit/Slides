@@ -136,7 +136,7 @@ $${!}$$
 ![[Pasted image 20250323002026.png]]
 
 ---
-![[Pasted image 20250322223800.png|800]]
+![[Pasted image 20250329032508.png]]
 
 ---
 ![[Pasted image 20250322223851.png]]
@@ -170,7 +170,7 @@ Note: ამ შემთხვევაში, ესეც შემოწმ�
 note: ზოგჯერ გვჭირდება მრავალი ერთნაირი მონაცემის დაჯგუფება ისეთი სახით, რომლის გამოყენებაც ადამიანებისთვის მარტივია
 
 ---
-![[Pasted image 20250316144508.png]]
+![[Pasted image 20250329030359.png]]
 Note: დავუშვათ გვაქვს პროგრამა, სადაც ვინახავთ და ვითვლით სხვადასხვა მოსწავლის ქულებს. ყველაზე პრიმიტიული მაგალითი იქნება, რომ ყველა მოსწავლისათვის ცალ-ცალკე ცვლადები გამოვაცხადოთ. თუმცა ეს ძალიან არაპპროდუქტიულია და მოუხერხებელი.
 იდეალური იქნებოდა, რომ რაღაც საცავი შეგვექმნა, საიდანაც მარტივად მივწვდებოდით თითოეულ მოსწავლეს. ამისათვის არსებობს ჯავაში მასივის მცნება.
 
@@ -179,32 +179,32 @@ Note: დავუშვათ გვაქვს პროგრამა, ს�
 $${\textcolor{yellow}{int[]} \space  \textcolor{cyan}x \space  = new \textcolor{yellow}{ \space int[\textcolor{white}{100}]};}$$
 ---
 
-![[Pasted image 20250316144707.png]]
+![[Pasted image 20250329030441.png]]
 
 ---
 
-![[Pasted image 20250316145103.png]]
+![[Pasted image 20250329030525.png]]
 
 ![[Pasted image 20250322223908.png]]
 
 ---
 
-![[Pasted image 20250316145155.png]]
+![[Pasted image 20250329030618.png]]
 
 ---
-![[Pasted image 20250316145434.png]]
+![[Pasted image 20250329030704.png]]
 
 ![[Pasted image 20250322223938.png]]
 
 ---
 
-![[Pasted image 20250316145517.png]]
+![[Pasted image 20250329031438.png]]
 
 ---
-![[Pasted image 20250316145550.png]]
+![[Pasted image 20250329031953.png]]
 ---
 
-![[Pasted image 20250316145536.png]]
+![[Pasted image 20250329030845.png]]
 
 ---
 
@@ -218,13 +218,13 @@ note: შეგვიძლია განზომილებებში გ
 $${\textcolor{yellow}{int[][]} \space  \textcolor{cyan}x \space  = new \textcolor{yellow}{ \space int[\textcolor{white}{8}][\textcolor{white}{3}]};}$$
 ---
 
-![[Pasted image 20250322032248.png|700]]
+![[Pasted image 20250329031352.png]]
 
 ![[Pasted image 20250316145852.png]]
 
 ---
 
-![[Pasted image 20250322032747.png|700]]
+![[Pasted image 20250329031245.png]]
 ![[Pasted image 20250322224040.png]]
 
 

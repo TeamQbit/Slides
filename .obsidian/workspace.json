@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6d0a2c8a15829670",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "876611c1273eb3e7",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -187,20 +171,19 @@
   },
   "active": "b37631c9c6feb30b",
   "lastOpenFiles": [
-    "Lectures/DemetreSlides/Images/Pasted image 20250323002026.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250323001926.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250323001421.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250323001220.png",
     "Lectures/DemetreSlides/Slide Java p2.md",
     "Lectures/DemetreSlides/Slide Java.md",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224713.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224659.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224644.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224634.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224607.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224505.png",
-    "Lectures/DemetreSlides/Images/Pasted image 20250322224341.png",
     "Lectures/DemetreSlides/Slide Java p3.md",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329032508.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329031953.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329031438.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329031352.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329031245.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329031100.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329031038.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329031026.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329031015.png",
+    "Lectures/DemetreSlides/Images/Pasted image 20250329030845.png",
     "Lectures/01-computer-binary-karlo.md",
     "Lectures/02-data-variables-java.md",
     "Lectures/02/DataTypes/02-data-variables-java.md",
