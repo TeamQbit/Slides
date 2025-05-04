@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "4d74466f51971cd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3191654dd5abe61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf882ff1005c502",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          },
+          {
+            "id": "edf955c4b039a0f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/05-algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05-algorithms"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92cb06e8c5ebc1c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc99bc34de0b1af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af14ea1b9945df1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd6013df5838e1b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "414cf2cf9bbc529c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "551be219367dc6cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5089e90aa50278d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a269b1517d15ce6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lectures/05-algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05-algorithms"
+            }
+          },
+          {
+            "id": "1b78966a9d843ebc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lectures/05-algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05-algorithms"
+            }
+          },
+          {
+            "id": "9359689e3c0c2b44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfcbc2ea0e299fa4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lectures/05-algorithms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05-algorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "edf955c4b039a0f4",
+  "lastOpenFiles": [
+    "Lectures/05-algorithms.md",
+    "Lectures/Images/lecture 5/palindrome.gif",
+    "Lectures/Images/lecture 5/palindrome.gif.crdownload",
+    "README.md",
+    "Lectures/Images/lecture 5/Pasted image 20250504113817.png",
+    "Lectures/Images/lecture 5/Dijkstra.gif",
+    "Lectures/Images/lecture 5/Dijkstra.gif.crdownload",
+    "Lectures/Images/lecture 5/Pasted image 20250504092912.png",
+    "Lectures/Images/lecture 5/Pasted image 20250504092701.png",
+    "Lectures/Images/lecture 5/reverse linked list.gif",
+    "Lectures/Images/lecture 5/reverse linked list.gif.crdownload",
+    "Lectures/Images/lecture 5/dfs vs bfs.gif",
+    "Lectures/Images/lecture 5/dfs vs bfs.gif.crdownload",
+    "Lectures/Images/lecture 5/bfs.gif",
+    "Lectures/Images/lecture 5/bfs.gif.crdownload",
+    "Lectures/Images/lecture 5/Pasted image 20250504092150.png",
+    "Lectures/Images/lecture 5/Pasted image 20250504092234.png",
+    "Lectures/Images/lecture 5/graphs.gif.crdownload",
+    "Lectures/Images/lecture 5/algorithms.gif.crdownload",
+    "Lectures/Images/lecture 5/MergeSort_Avg_case.gif.crdownload",
+    "Lectures/Images/lecture 5/BubbleSort_Avg_case.gif.crdownload",
+    "Lectures/Images/lecture 5/binary_search.gif.crdownload",
+    "Lectures/03-data structures.md",
+    "Lectures/02-data-variables-java.md",
+    "Lectures/01-computer-binary-karlo.md"
+  ]
+}
