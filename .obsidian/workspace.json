@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3191654dd5abe61",
+        "id": "7ce3687c9ee1f2d1",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf882ff1005c502",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
-            }
-          },
-          {
-            "id": "edf955c4b039a0f4",
+            "id": "60be006ea30bdf1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +21,7 @@
               "title": "05-algorithms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "right": {
     "id": "551be219367dc6cd",
@@ -180,31 +169,32 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "edf955c4b039a0f4",
+  "active": "60be006ea30bdf1b",
   "lastOpenFiles": [
+    "Lectures/Images/lecture 5/palindrome 2 pointer.gif",
+    "Lectures/Images/lecture 5/palindrome 2 pointer.gif.crdownload",
+    "Lectures/Images/lecture 5/merge sort.gif",
+    "Lectures/Images/lecture 5/merge sort.gif.crdownload",
+    "Lectures/03-data structures.md",
     "Lectures/05-algorithms.md",
-    "Lectures/Images/lecture 5/palindrome.gif",
+    "Lectures/Images/lecture 5/bubble sort.gif",
+    "Lectures/Images/lecture 5/bubble sort.gif.crdownload",
+    "Lectures/Images/lecture 5/linear vs binary search.png",
+    "Lectures/Images/lecture 5/doubly linked list.png",
+    "Lectures/Images/lecture 5/Pasted image 20250504092701.png",
+    "Lectures/Images/lecture 5/nodes edges vertices.png",
+    "Lectures/Images/lecture 5/graphs view.png",
+    "Lectures/Images/lecture 5/sorting algorithms full.png",
+    "Lectures/Images/lecture 5/al khwarizmi.png",
+    "Lectures/Images/lecture 5/first algorithm.png",
+    "Lectures/Images/lecture 5/binary search.gif.crdownload",
+    "Lectures/Images/lecture 5/linear search.gif.crdownload",
+    "Lectures/Images/lecture 5/greedy.gif.crdownload",
     "Lectures/Images/lecture 5/palindrome.gif.crdownload",
     "README.md",
-    "Lectures/Images/lecture 5/Pasted image 20250504113817.png",
-    "Lectures/Images/lecture 5/Dijkstra.gif",
     "Lectures/Images/lecture 5/Dijkstra.gif.crdownload",
-    "Lectures/Images/lecture 5/Pasted image 20250504092912.png",
-    "Lectures/Images/lecture 5/Pasted image 20250504092701.png",
-    "Lectures/Images/lecture 5/reverse linked list.gif",
     "Lectures/Images/lecture 5/reverse linked list.gif.crdownload",
-    "Lectures/Images/lecture 5/dfs vs bfs.gif",
     "Lectures/Images/lecture 5/dfs vs bfs.gif.crdownload",
-    "Lectures/Images/lecture 5/bfs.gif",
-    "Lectures/Images/lecture 5/bfs.gif.crdownload",
-    "Lectures/Images/lecture 5/Pasted image 20250504092150.png",
-    "Lectures/Images/lecture 5/Pasted image 20250504092234.png",
-    "Lectures/Images/lecture 5/graphs.gif.crdownload",
-    "Lectures/Images/lecture 5/algorithms.gif.crdownload",
-    "Lectures/Images/lecture 5/MergeSort_Avg_case.gif.crdownload",
-    "Lectures/Images/lecture 5/BubbleSort_Avg_case.gif.crdownload",
-    "Lectures/Images/lecture 5/binary_search.gif.crdownload",
-    "Lectures/03-data structures.md",
     "Lectures/02-data-variables-java.md",
     "Lectures/01-computer-binary-karlo.md"
   ]
