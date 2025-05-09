@@ -90,17 +90,17 @@ Two Pointer
 იმპლემენტაცია
 ``` Java
 boolean isPalindrome(String s) {
-	int left  = 0;              // pointer 1 – start of the string
-	int right = s.length() - 1; // pointer 2 – end of the string
+	int left  = 0;              // მარცხენა ისარი იწყებს თავიდან
+	int right = s.length() - 1; // მარჯვენა ისარი იწყებს ბოლოდან
 
-	while (left < right) {      // walk toward the centre
+	while (left < right) {      // ვაგრძელებთ სანამ ისრები ერთმანეთს გადაკვეთენ
 		if (s.charAt(left) != s.charAt(right)) {
-			return false;       // early exit on mismatch
+			return false;       // არ დაემთხვა, არ არის პალიდრომი
 		}
-		left++;                 // move both pointers
-		right--;
+		left++;                 // მარცხენა ისარი 1 ნაბიჯით მარჯვნივ
+		right--;                // მარჯვენა ისარი 1 ნაბიჯით მარცხნივ
 	}
-	return true;                // it's a palindrome
+	return true;                // პალინდრომია
 ```
 
 notes: გვაქვს 2 ისარი და ყოველ ჯერზე მათ ვწევთ ამოცანის ამოსახსნელად. ამ მაგალითში ერთი ისარი თავშია და ერთი ბოლოში და ორივეს შუისკენ ვწევთ ნაბიჯ-ნაბიჯ და ვამოწმებთ რომ ტოლობაზე შევამოწმოთ
