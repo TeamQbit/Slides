@@ -115,7 +115,9 @@ Greedy ალგორითმში პრობლემას ვყოფ�
 
 ---
 
-Memoization with Fibonacci
+დინამიური პროგრამირება: ფიბონაჩი
+
+![[fibonacci memo.gif]]
 
 ``` Java
 int fib(int n) {
