@@ -83,7 +83,7 @@ note: bonus რომ multithreadingის გამოყენების ს
 
 Two Pointer
 
-![[palindrome 2 pointer.gif]]
+![[palindrome.gif]]
 
 ---
 
@@ -111,13 +111,25 @@ Greedy Method
 
 Greedy ალგორითმში პრობლემას ვყოფთ ნაბიჯებად და თითო ნაბიჯზე ვირჩევთ **ლოკალურად საუკეთესო** სვლას
 
-![[greedy.gif]]
+![[greedy coins.gif]]
 
 ---
 
 Memoization with Fibonacci
 
-TODO
+``` Java
+int fib(int n) {
+	// Return cached value if present
+	if (memo.containsKey(n)) {
+		return memo.get(n);
+	}
+
+	// Otherwise compute, cache, and return
+	int result = fib(n - 1) + fib(n - 2);
+	memo.put(n, result);
+	return result;
+}
+```
 
 ---
 
@@ -150,7 +162,14 @@ Edges - წიბოები
 Depth-First Search
 
 ![[graphs.gif]]
-
+```
+DFS(node):
+  mark node as visited
+  
+  for each neighbor in node.neighbors:
+    if neighbor not visited:
+      DFS(neighbor)
+```
 ---
 
 Breadth-First Search
