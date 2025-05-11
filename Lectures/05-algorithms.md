@@ -153,19 +153,19 @@ Node / Vertex - წვერო
 
 Edge - წიბო
 
-![[Algorithms - Edges and Vertices.jpg]]
+![[Graph Vertex and Edge.png]]
 
 ---
 
-![[Algorithms - Undirected Graphs.jpg]]
+![[Undirected Graph.png]]
 
 ---
 
-![[Algorithms - Directed Graphs.jpg]]
+![[Directed Graph.png]]
 
 ---
 
-![[Algorithms - weighted graph.jpg]]
+![[Weighted Graph.png]]
 
 ---
 
