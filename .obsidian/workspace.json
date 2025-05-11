@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "20250509142723",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,20 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4af14ea1b9945df1",
+  "active": "d95fa6b757355043",
   "lastOpenFiles": [
+    "Lectures/Images/Pasted image 20250509142723.png",
+    "Lectures/05-algorithms.md",
+    "Sorting Algorithms.png",
+    "Lectures/Images/lecture 5/Algorithms - Sorting Algorithms.jpg",
     "Lectures/Images/lecture 5/Weighted Graph.png",
     "Lectures/Images/lecture 5/Directed Graph.png",
     "Lectures/Images/lecture 5/Undirected Graph.png",
-    "Lectures/05-algorithms.md",
     "Lectures/Images/lecture 5/Graph Vertex and Edge.png",
     "Lectures/Images/lecture 5/Algorithms - Edges and Vertices.jpg",
     "Lectures/Images/lecture 5/Algorithms - Directed Graphs.jpg",
     "Lectures/Images/lecture 5/Algorithms - weighted graph.jpg",
     "Lectures/Images/lecture 5/Algorithms - Undirected Graphs.jpg",
-    "Lectures/Images/lecture 5/fibonacci memo.gif",
-    "Lectures/Images/lecture 5/dfs.gif",
-    "Lectures/Images/lecture 5/greedy coins.gif",
     "Lectures/Images/lecture 5/palindrome 2 pointer.gif.crdownload",
     "Lectures/Images/lecture 5/merge sort.gif.crdownload",
     "Lectures/03-data structures.md",

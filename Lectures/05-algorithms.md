@@ -50,8 +50,7 @@ note: რაღაცეებს ვიტყვი აქ
 
 ---
 
-დალაგების ალგორითები
-![[Pasted image 20250509142723.png]]
+![[Sorting Algorithms.png]]
 
 ---
 
