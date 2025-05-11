@@ -161,7 +161,7 @@ Edges - წიბოები
 
 Depth-First Search
 
-![[graphs.gif]]
+![[dfs.gif]]
 ```
 DFS(node):
   mark node as visited
