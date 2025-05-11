@@ -147,17 +147,25 @@ Reversing a Linked List
 
 ---
 
-Graphs
+გრაფები
 
-![[graphs view.png]]
+Node / Vertex - წვერო
+
+Edge - წიბო
+
+![[Algorithms - Edges and Vertices.jpg]]
 
 ---
 
-Nodes/Vertices - წვეროები
+![[Algorithms - Undirected Graphs.jpg]]
 
-Edges - წიბოები
+---
 
-![[nodes edges vertices.png]]
+![[Algorithms - Directed Graphs.jpg]]
+
+---
+
+![[Algorithms - weighted graph.jpg]]
 
 ---
 
