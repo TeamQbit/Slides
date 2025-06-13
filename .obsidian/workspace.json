@@ -4,31 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7747978597354ab0",
+        "id": "ae01e7a4df379b43",
         "type": "tabs",
         "children": [
           {
-            "id": "4766cd1826a066bc",
+            "id": "099a16d277faca61",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "type": "image",
+              "state": {
+                "file": "Lectures/db/images/docker logo.png"
+              },
+              "icon": "lucide-image",
+              "title": "docker logo"
             }
           },
           {
-            "id": "a0528e674c522d89",
+            "id": "f51fd6935802f6ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/05-algorithms.md",
+                "file": "Lectures/08-db.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-algorithms"
+              "title": "08-db"
             }
           }
         ],
@@ -89,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 401.5
   },
   "right": {
     "id": "551be219367dc6cd",
@@ -181,33 +182,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a0528e674c522d89",
+  "active": "4af14ea1b9945df1",
   "lastOpenFiles": [
-    "Pasted image 20250512150308.png",
-    "Lectures/Images/lecture 5/fib memo.png",
-    "Lectures/05-algorithms.md",
-    "Lectures/03-data structures.md",
-    "Lectures/Images/lecture 5/Pasted image 20250512140720.png",
-    "Algorithms - Greedy 00 (1).jpg",
-    "Lectures/Images/lecture 5/Pasted image 20250512131959.png",
-    "Lectures/Images/lecture 5/Pasted image 20250512140055.png",
-    "Lectures/Images/lecture 5/Pasted image 20250512135552.png",
-    "Lectures/Images/lecture 5/Pasted image 20250512135259.png",
-    "Lectures/Images/lecture 5/Pasted image 20250512133807.png",
-    "Lectures/Images/lecture 5/Pasted image 20250512133804.png",
-    "Lectures/Images/lecture 5/Pasted image 20250512133704.png",
-    "Lectures/algorithms/linear_search.java",
-    "Lectures/algorithms",
-    "Lectures/Images/lecture 5/palindrome 2 pointer.gif.crdownload",
-    "Lectures/Images/lecture 5/merge sort.gif.crdownload",
-    "Lectures/Images/lecture 5/bubble sort.gif.crdownload",
-    "Lectures/Images/lecture 5/binary search.gif.crdownload",
-    "Lectures/Images/lecture 5/linear search.gif.crdownload",
-    "Lectures/Images/lecture 5/greedy.gif.crdownload",
-    "Lectures/Images/lecture 5/palindrome.gif.crdownload",
+    "Lectures/db/images/1 to 1.png",
+    "Lectures/db/images/many to many.png",
+    "Lectures/db/images/student 2.jpg",
+    "Lectures/db/images/student 2.jpg.crdownload",
+    "Lectures/db/images/student 1.jpg",
+    "Lectures/db/images/student 1.jpg.crdownload",
+    "Lectures/db/images/1 to many.png",
+    "Lectures/db/images/robotics.jpg",
+    "Lectures/db/images/robotics.jpg.crdownload",
+    "Lectures/db/images/excel.png",
+    "Lectures/db/images/er diagram.png",
+    "Lectures/db/images/chen vs crows foot vs uml.png",
+    "Lectures/08-db.md",
+    "Lectures/db/images/schema example.png",
+    "Lectures/db/images/postgres logo.png",
     "README.md",
-    "Lectures/Images/lecture 5/Dijkstra.gif.crdownload",
+    "Lectures/db/cross out.jpg.crdownload",
+    "Lectures/db/book cover.jpg.crdownload",
+    "Lectures/db/images",
+    "Lectures/db/code samples/messy_enrollments.csv",
+    "Lectures/db/code samples",
+    "Lectures/05-algorithms.md",
+    "Lectures/algorithms/ezgif.com-gif-to-mp4-converter.mp4",
+    "Lectures/db/bits on screen.gif.crdownload",
     "Lectures/02-data-variables-java.md",
+    "index.md",
+    "Lectures/03-data structures.md",
     "Lectures/01-computer-binary-karlo.md"
   ]
 }

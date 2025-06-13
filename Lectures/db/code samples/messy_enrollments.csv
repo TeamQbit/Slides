@@ -1,0 +1,101 @@
+enrollment_id,student_id,student_name,student_email,course_id,course_title,instructor_id,instructor_name,instructor_email,enrollment_date
+1,101,Alice Johnson,alice@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-26
+2,101,Alice Johnson,alice@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-27
+3,101,Alice Johnson,alice@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-10
+4,101,Alice Johnson,alice@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-16
+5,101,Alice Johnson,alice@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-12
+6,101,Alice Johnson,alice@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-19
+7,102,Brian Chen,brian@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-25
+8,102,Brian Chen,brian@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-04
+9,102,Brian Chen,brian@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-20
+10,102,Brian Chen,brian@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-01
+11,102,Brian Chen,brian@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-07
+12,103,Clara Patel,clara@example.com,502,Data Structures,301,Dr. Bob Smith,bob@coursehub.com,2025-02-23
+13,103,Clara Patel,clara@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-28
+14,103,Clara Patel,clara@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-13
+15,103,Clara Patel,clara@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-21
+16,103,Clara Patel,clara@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-14
+17,104,Daniela Ruiz,daniela@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-06
+18,104,Daniela Ruiz,daniela@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-02
+19,104,Daniela Ruiz,daniela@example.com,510,Discrete Mathematics,305,Dr. Frank Adams,frank@coursehub.com,2025-02-11
+20,104,Daniela Ruiz,daniela@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-22
+21,104,Daniela Ruiz,daniela@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-27
+22,105,Ethan Wright,ethan@example.com,502,Data Structures,301,Dr. Bob Smith,bob@coursehub.com,2025-02-12
+23,105,Ethan Wright,ethan@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-16
+24,105,Ethan Wright,ethan@example.com,510,Discrete Mathematics,305,Dr. Frank Adams,frank@coursehub.com,2025-02-24
+25,105,Ethan Wright,ethan@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-20
+26,105,Ethan Wright,ethan@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-19
+27,106,Farah Khan,farah@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-05
+28,106,Farah Khan,farah@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-08
+29,106,Farah Khan,farah@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-18
+30,106,Farah Khan,farah@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-14
+31,107,George Li,george@example.com,502,Data Structures,301,Dr. Bob Smith,bob@coursehub.com,2025-02-10
+32,107,George Li,george@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-13
+33,107,George Li,george@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-07
+34,107,George Li,george@example.com,510,Discrete Mathematics,305,Dr. Frank Adams,frank@coursehub.com,2025-02-11
+35,107,George Li,george@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-17
+36,108,Hannah Kim,hannah@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-09
+37,108,Hannah Kim,hannah@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-15
+38,108,Hannah Kim,hannah@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-12
+39,108,Hannah Kim,hannah@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-19
+40,108,Hannah Kim,hannah@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-22
+41,109,Ivan Petrov,ivan@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-06
+42,109,Ivan Petrov,ivan@example.com,502,Data Structures,301,Dr. Bob Smith,bob@coursehub.com,2025-02-03
+43,109,Ivan Petrov,ivan@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-21
+44,109,Ivan Petrov,ivan@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-16
+45,109,Ivan Petrov,ivan@example.com,510,Discrete Mathematics,305,Dr. Frank Adams,frank@coursehub.com,2025-02-23
+46,110,Julia Lopez,julia@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-11
+47,110,Julia Lopez,julia@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-18
+48,110,Julia Lopez,julia@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-24
+49,110,Julia Lopez,julia@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-14
+50,110,Julia Lopez,julia@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-20
+51,111,Kyle Zhang,kyle@example.com,502,Data Structures,301,Dr. Bob Smith,bob@coursehub.com,2025-02-04
+52,111,Kyle Zhang,kyle@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-09
+53,111,Kyle Zhang,kyle@example.com,510,Discrete Mathematics,305,Dr. Frank Adams,frank@coursehub.com,2025-02-15
+54,111,Kyle Zhang,kyle@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-19
+55,111,Kyle Zhang,kyle@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-22
+56,112,Luna Garcia,luna@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-12
+57,112,Luna Garcia,luna@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-18
+58,112,Luna Garcia,luna@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-14
+59,112,Luna Garcia,luna@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-16
+60,112,Luna Garcia,luna@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-23
+61,113,Mason Brown,mason@example.com,502,Data Structures,301,Dr. Bob Smith,bob@coursehub.com,2025-02-02
+62,113,Mason Brown,mason@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-07
+63,113,Mason Brown,mason@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-11
+64,113,Mason Brown,mason@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-13
+65,113,Mason Brown,mason@example.com,510,Discrete Mathematics,305,Dr. Frank Adams,frank@coursehub.com,2025-02-20
+66,114,Nadia Singh,nadia@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-03
+67,114,Nadia Singh,nadia@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-06
+68,114,Nadia Singh,nadia@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-10
+69,114,Nadia Singh,nadia@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-15
+70,114,Nadia Singh,nadia@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-18
+71,115,Omar Abdallah,omar@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-05
+72,115,Omar Abdallah,omar@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-11
+73,115,Omar Abdallah,omar@example.com,510,Discrete Mathematics,305,Dr. Frank Adams,frank@coursehub.com,2025-02-17
+74,115,Omar Abdallah,omar@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-19
+75,115,Omar Abdallah,omar@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-23
+76,116,Priya Sharma,priya@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-08
+77,116,Priya Sharma,priya@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-12
+78,116,Priya Sharma,priya@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-21
+79,116,Priya Sharma,priya@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-25
+80,116,Priya Sharma,priya@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-27
+81,117,Quinn O'Neil,quinn@example.com,502,Data Structures,301,Dr. Bob Smith,bob@coursehub.com,2025-02-09
+82,117,Quinn O'Neil,quinn@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-13
+83,117,Quinn O'Neil,quinn@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-17
+84,117,Quinn O'Neil,quinn@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-22
+85,117,Quinn O'Neil,quinn@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-28
+86,118,Rosa Martinez,rosa@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-04
+87,118,Rosa Martinez,rosa@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-07
+88,118,Rosa Martinez,rosa@example.com,510,Discrete Mathematics,305,Dr. Frank Adams,frank@coursehub.com,2025-02-12
+89,118,Rosa Martinez,rosa@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-15
+90,118,Rosa Martinez,rosa@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-20
+91,119,Samuel Green,samuel@example.com,504,Algorithms,302,Dr. Carol Lee,carol@coursehub.com,2025-02-02
+92,119,Samuel Green,samuel@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-06
+93,119,Samuel Green,samuel@example.com,509,Web Development,304,Dr. Emily Wong,emily@coursehub.com,2025-02-08
+94,119,Samuel Green,samuel@example.com,503,Operating Systems,301,Dr. Bob Smith,bob@coursehub.com,2025-02-16
+95,119,Samuel Green,samuel@example.com,506,Databases,303,Dr. David Park,david@coursehub.com,2025-02-18
+96,120,Tara Wilson,tara@example.com,502,Data Structures,301,Dr. Bob Smith,bob@coursehub.com,2025-02-03
+97,120,Tara Wilson,tara@example.com,505,Theory of Computation,302,Dr. Carol Lee,carol@coursehub.com,2025-02-09
+98,120,Tara Wilson,tara@example.com,508,Software Engineering,304,Dr. Emily Wong,emily@coursehub.com,2025-02-14
+99,120,Tara Wilson,tara@example.com,501,Java Basics,301,Dr. Bob Smith,bob@coursehub.com,2025-02-17
+100,120,Tara Wilson,tara@example.com,507,Computer Networks,303,Dr. David Park,david@coursehub.com,2025-02-26
