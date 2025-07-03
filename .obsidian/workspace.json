@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae01e7a4df379b43",
+        "id": "748911319fc6bdba",
         "type": "tabs",
         "children": [
           {
-            "id": "099a16d277faca61",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lectures/db/images/docker logo.png"
-              },
-              "icon": "lucide-image",
-              "title": "docker logo"
-            }
-          },
-          {
-            "id": "f51fd6935802f6ba",
+            "id": "89563c9b6748c441",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +20,44 @@
               "icon": "lucide-file",
               "title": "08-db"
             }
+          },
+          {
+            "id": "2d1c6b6ed956863d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lectures/db/images/Pasted image 20250622124335.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250622124335"
+            }
+          },
+          {
+            "id": "901326cf745d1a40",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lectures/db/images/Pasted image 20250622124519.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250622124519"
+            }
+          },
+          {
+            "id": "20c2944a6640d08f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lectures/db/images/Pasted image 20250622124504.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250622124504"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 369.5
   },
   "right": {
     "id": "551be219367dc6cd",
@@ -182,35 +205,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4af14ea1b9945df1",
+  "active": "89563c9b6748c441",
   "lastOpenFiles": [
-    "Lectures/db/images/1 to 1.png",
-    "Lectures/db/images/many to many.png",
-    "Lectures/db/images/student 2.jpg",
-    "Lectures/db/images/student 2.jpg.crdownload",
-    "Lectures/db/images/student 1.jpg",
-    "Lectures/db/images/student 1.jpg.crdownload",
-    "Lectures/db/images/1 to many.png",
-    "Lectures/db/images/robotics.jpg",
-    "Lectures/db/images/robotics.jpg.crdownload",
-    "Lectures/db/images/excel.png",
-    "Lectures/db/images/er diagram.png",
-    "Lectures/db/images/chen vs crows foot vs uml.png",
+    "Lectures/db/images/group by 2.png",
     "Lectures/08-db.md",
-    "Lectures/db/images/schema example.png",
-    "Lectures/db/images/postgres logo.png",
-    "README.md",
-    "Lectures/db/cross out.jpg.crdownload",
-    "Lectures/db/book cover.jpg.crdownload",
-    "Lectures/db/images",
-    "Lectures/db/code samples/messy_enrollments.csv",
-    "Lectures/db/code samples",
+    "Lectures/db/images/group by 1.png",
+    "Lectures/db/code samples/TRANSACTION.sql",
+    "Lectures/db/code samples/FUNCTION_STORED_PROCEDURE_VIEW.sql",
+    "Lectures/db/code samples/TRIGGER.sql",
+    "Lectures/db/code samples/SUBQUERY.sql",
+    "Lectures/db/code samples/INDEX.sql",
+    "Lectures/db/code samples/GROUP_BY.sql",
+    "Lectures/db/code samples/JOIN.sql",
+    "Lectures/db/code samples/SELECT.sql",
+    "Lectures/db/code samples/DML.sql",
+    "Lectures/db/code samples/DDL.sql",
+    "Lectures/db/images/neo4j.png",
+    "Lectures/db/images/neo4j stats.png",
+    "Lectures/db/images/search db 1.png",
+    "Lectures/db/images/search db stats.png",
+    "Lectures/db/images/vector db.png",
+    "Lectures/db/images/vector db stats.png",
+    "Lectures/db/images/multimodel db 1.png",
+    "Lectures/db/images/relational db.png",
+    "Lectures/01-computer-binary-karlo.md",
     "Lectures/05-algorithms.md",
-    "Lectures/algorithms/ezgif.com-gif-to-mp4-converter.mp4",
-    "Lectures/db/bits on screen.gif.crdownload",
+    "README.md",
+    "Neurosity and Neurofeedback/Neurosity and Neurofeedback.md",
     "Lectures/02-data-variables-java.md",
     "index.md",
-    "Lectures/03-data structures.md",
-    "Lectures/01-computer-binary-karlo.md"
+    "Lectures/03-data structures.md"
   ]
 }
