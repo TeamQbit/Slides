@@ -58,6 +58,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "2946abef53bc256c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bc6a8a2625cf61b",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +221,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "89563c9b6748c441",
+  "active": "6bc6a8a2625cf61b",
   "lastOpenFiles": [
     "Lectures/db/images/group by 2.png",
     "Lectures/08-db.md",
