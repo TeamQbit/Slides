@@ -20,51 +20,15 @@
               "icon": "lucide-file",
               "title": "08-db"
             }
-          },
-          {
-            "id": "2d1c6b6ed956863d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lectures/db/images/Pasted image 20250622124335.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250622124335"
-            }
-          },
-          {
-            "id": "901326cf745d1a40",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lectures/db/images/Pasted image 20250622124519.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250622124519"
-            }
-          },
-          {
-            "id": "20c2944a6640d08f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lectures/db/images/Pasted image 20250622124504.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250622124504"
-            }
           }
         ]
       },
       {
-        "id": "2946abef53bc256c",
+        "id": "12182c3dfaac60de",
         "type": "tabs",
         "children": [
           {
-            "id": "6bc6a8a2625cf61b",
+            "id": "17a5a503d372775a",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -130,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 325.5
   },
   "right": {
     "id": "551be219367dc6cd",
@@ -221,11 +185,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6bc6a8a2625cf61b",
+  "active": "4af14ea1b9945df1",
   "lastOpenFiles": [
-    "Lectures/db/images/group by 2.png",
+    "Lectures/db/images/multimodel db 2.png",
+    "Lectures/db/images/search db 2.png",
+    "Lectures/db/images/neo4j 1.png",
+    "Lectures/db/images/neo4j stats 1.png",
     "Lectures/08-db.md",
-    "Lectures/db/images/group by 1.png",
+    "Lectures/db/images/cassandra 1.png",
+    "Lectures/db/images/cassandra 3.png",
+    "Lectures/db/images/cassandra 2.png",
+    "Lectures/db/images/widecolumn db 5.png",
+    "Lectures/db/images/keyvalue db 1.png",
+    "Lectures/db/images/document db 2.png",
+    "Lectures/db/images/keyvalue db georgian example.png",
+    "Lectures/03-data structures.md",
     "Lectures/db/code samples/TRANSACTION.sql",
     "Lectures/db/code samples/FUNCTION_STORED_PROCEDURE_VIEW.sql",
     "Lectures/db/code samples/TRIGGER.sql",
@@ -236,20 +210,11 @@
     "Lectures/db/code samples/SELECT.sql",
     "Lectures/db/code samples/DML.sql",
     "Lectures/db/code samples/DDL.sql",
-    "Lectures/db/images/neo4j.png",
-    "Lectures/db/images/neo4j stats.png",
-    "Lectures/db/images/search db 1.png",
-    "Lectures/db/images/search db stats.png",
-    "Lectures/db/images/vector db.png",
-    "Lectures/db/images/vector db stats.png",
-    "Lectures/db/images/multimodel db 1.png",
-    "Lectures/db/images/relational db.png",
     "Lectures/01-computer-binary-karlo.md",
     "Lectures/05-algorithms.md",
     "README.md",
     "Neurosity and Neurofeedback/Neurosity and Neurofeedback.md",
     "Lectures/02-data-variables-java.md",
-    "index.md",
-    "Lectures/03-data structures.md"
+    "index.md"
   ]
 }
