@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "12182c3dfaac60de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "17a5a503d372775a",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 265.5
   },
   "right": {
     "id": "551be219367dc6cd",
@@ -185,20 +169,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4af14ea1b9945df1",
+  "active": "89563c9b6748c441",
   "lastOpenFiles": [
-    "Lectures/db/images/multimodel db 2.png",
-    "Lectures/db/images/search db 2.png",
-    "Lectures/db/images/neo4j 1.png",
-    "Lectures/db/images/neo4j stats 1.png",
+    "README.md",
+    "Lectures/db/images/elasticsearch.png",
     "Lectures/08-db.md",
-    "Lectures/db/images/cassandra 1.png",
-    "Lectures/db/images/cassandra 3.png",
-    "Lectures/db/images/cassandra 2.png",
-    "Lectures/db/images/widecolumn db 5.png",
-    "Lectures/db/images/keyvalue db 1.png",
-    "Lectures/db/images/document db 2.png",
-    "Lectures/db/images/keyvalue db georgian example.png",
+    "Lectures/db/images/elasticsearch stats.png",
+    "Lectures/db/images/vector db stats 1.png",
+    "Lectures/db/images/GROUP BY 1 1.png",
+    "Lectures/db/images/GROUP BY 2 1.png",
+    "Lectures/db/images/db function vs stored proc.png",
+    "Lectures/db/images/er diagram 6.png",
+    "Lectures/db/images/er diagram 1.png",
+    "Lectures/db/images/er diagram 5.png",
+    "Lectures/db/images/er diagram 4.png",
     "Lectures/03-data structures.md",
     "Lectures/db/code samples/TRANSACTION.sql",
     "Lectures/db/code samples/FUNCTION_STORED_PROCEDURE_VIEW.sql",
@@ -212,7 +196,6 @@
     "Lectures/db/code samples/DDL.sql",
     "Lectures/01-computer-binary-karlo.md",
     "Lectures/05-algorithms.md",
-    "README.md",
     "Neurosity and Neurofeedback/Neurosity and Neurofeedback.md",
     "Lectures/02-data-variables-java.md",
     "index.md"
