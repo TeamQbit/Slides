@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "748911319fc6bdba",
+        "id": "c9153cbbba338c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "89563c9b6748c441",
+            "id": "c1c32bf7928aca80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 257.5
   },
   "right": {
     "id": "551be219367dc6cd",
@@ -169,20 +169,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4af14ea1b9945df1",
+  "active": "c1c32bf7928aca80",
   "lastOpenFiles": [
+    "Lectures/05-algorithms.md",
+    "Lectures/08-db.md",
+    "Lectures/db/images/json example.png",
+    "Lectures/db/code samples/json_example.json",
+    "Lectures/db/images/db java 1.png",
+    "Lectures/db/images/db java 6.png",
+    "Lectures/db/images/db java 5.png",
+    "Pasted image 20250711143254.png",
+    "Lectures/db/images/db java 4.png",
+    "Lectures/db/images/db java 3.png",
+    "Lectures/db/images/db java 2.png",
+    "Lectures/db/code samples/Java Side/Instructor.java",
+    "Lectures/db/code samples/Java Side",
     "Lectures/db/images/notations full.png",
     "Lectures/db/images/notations 2.png",
-    "Lectures/db/images/notations 1.png",
-    "Lectures/08-db.md",
-    "Lectures/db/images/notations 4.png",
-    "Lectures/db/images/notations 3.png",
-    "Lectures/db/images/sql order.png",
-    "Lectures/db/images/sql order 9.png",
-    "Lectures/db/images/sql order 8.png",
-    "Lectures/db/images/sql order 7.png",
-    "Lectures/db/images/sql order 6.png",
-    "Lectures/db/images/sql order 5.png",
     "README.md",
     "Lectures/03-data structures.md",
     "Lectures/db/code samples/TRANSACTION.sql",
@@ -192,11 +195,7 @@
     "Lectures/db/code samples/INDEX.sql",
     "Lectures/db/code samples/GROUP_BY.sql",
     "Lectures/db/code samples/JOIN.sql",
-    "Lectures/db/code samples/SELECT.sql",
-    "Lectures/db/code samples/DML.sql",
-    "Lectures/db/code samples/DDL.sql",
     "Lectures/01-computer-binary-karlo.md",
-    "Lectures/05-algorithms.md",
     "Neurosity and Neurofeedback/Neurosity and Neurofeedback.md",
     "Lectures/02-data-variables-java.md",
     "index.md"

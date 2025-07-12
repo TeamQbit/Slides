@@ -1,0 +1,16 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York",
+  "isStudent": false,
+  "courses": [
+    "Math",
+    "Science",
+    "History"
+  ],
+  "address": {
+    "street": "123 Main St",
+    "zip": "10001"
+  },
+  "extras": null
+}
